@@ -1,7 +1,14 @@
+@import url("fontawesome.css");
+@import url("fontawesome.min.css");
+@import url("solid.css");
+@import url("solid.min.css");
+
+
 *{
     margin: 0;
     padding: 0;
 }
+
 body{
     font-family: Roboto;
 }
